@@ -1,0 +1,93 @@
+@font-face {
+    font-family: 'Inter';
+    src: url(Inter/Inter-VariableFont_slnt\,wght.ttf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Inter;
+    
+}
+.container{
+    background-color: #FFCD9E;
+    display: flex;
+    height: 595px;
+    
+}
+.container3{
+    background-color: #000000;
+    display: flex;
+    height: 260px;
+    color: white;
+    font-size: 20px;
+    justify-content: space-around;
+}
+#txt{
+    border: 3px solid #282828;
+    border-radius: 8px;
+    height: 40px;
+    width: 300px;
+    padding-left: 20px;
+    
+   
+}
+#bton{
+    border: 3px solid #282828;
+    height: 45px;
+    width: 200px;
+    background-color: #282828;
+    border-radius: 8px;
+    text-align: center;
+    color: white;
+}
+.first{
+    margin: 93px 136px 40px;
+    
+}
+h1{
+    width: 540px;
+    font-size: 36px;
+}
+p{
+    width: 490px;
+    margin-top:40px ;
+    font-size: 20px;
+    color: #484848;
+    ;
+
+}
+.container2{
+    margin-left: 70px;
+    
+}
+.second {
+    margin: 40px 136px;
+}
+
+h3{
+    font-size: 20 px;
+    
+}
+.seconda{
+    margin-top: 40px;
+    
+}
+
+h5{
+    padding: 30px 33px;
+    font-size: 16px;
+    color: white;
+
+}
+
+.list, .list3{
+    margin: 10px;
+}
+
+.list1, .list2{
+    margin-top: 40px;
+}
+.list3{
+    margin-top: 37px;
+}
